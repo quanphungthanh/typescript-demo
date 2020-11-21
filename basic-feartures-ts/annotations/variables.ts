@@ -14,7 +14,7 @@ let myNumbers: number[] = [1, 2, 3, 4, 5];
 let what: boolean[] = [true, false];
 
 //classes
-class Car {}
+// class Car {}
 
 let car: Car = new Car();
 
